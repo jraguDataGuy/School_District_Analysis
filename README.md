@@ -16,4 +16,4 @@ After clean up, we saw a drastic increase in the school's passing percentages. O
 
 # High and Low Performing Schools
 THS moves into the top 5 for Overall passing after adjusting our metrics:
-
+![Image of Top 5]()
